@@ -1,0 +1,9 @@
+{
+    "name": "huetm/paczka",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "huetm\\paczka\\": "src/"
+        }
+}
+}
